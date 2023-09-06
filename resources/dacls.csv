@@ -1,7 +1,7 @@
-sales,20,permit tcp any host 1.1.1.1
+ip-phone,20,permit tcp any host 1.1.1.1
 ,,permit udp any any eq 53
 ,,permit tcp any host 2.2.2.2
-hr,30,permit tcp any host 3.3.3.3
+printer,30,permit tcp any host 3.3.3.3
 ,,permit udp any any eq 53
 ,,permit tcp any host 4.4.4.4
-it,40,permit ip any any
+camera,40,permit ip any any
